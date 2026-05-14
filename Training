@@ -294,6 +294,74 @@ It works with all devices except with Playbar and Playbase
 * To use third party speakers or devices.
 
 
+### Supported Audio Formats 
+
+https://support.sonos.com/en/article/supported-home-theater-audio-formats
+
+## Audio technology
+
+1. Codec/compression format : How audio is encoded
+2. Channel format: How many channels or speakers
+3. Transport method: how is the signal carried between devices 
+
+## Stereo PCM 
+
+* Uncompressed audio(lossless)
+* 2- channel(left - rigth)
+* Low processing complexity
+* Only 2 channels in stereo mode
+
+Pulse Code Modulation analog sounds waves and coverting them into binary 
+
+## Dolby Digital (AC-3)
+
+* Devoled by Dolby
+* Supports 5.1 channels 
+* Lossy compression 
+* Lower bandwidth requirements, reliable over ARC
+
+# DTS 
+
+* Surround codec from DTS
+* 5.1 Channels 
+* Higher bitrates
+
+ARC (Audio Return Channel)
+
+## Dolby Digital Plus 
+
+* Improved Dolby Digital
+* Support more channels(up to 7.1)
+
+## Dolby ATMOS 
+
+* Compressed Atmos 
+* Metadata
+* Height speakers 
+* Lower TrueHD Atmos
+* Lossy, HDMI eARC 
+
+Atmos is not a codec 
+
+## Dolby TrueHD 
+
+* Dolby's lossless high-end codec
+* Lossless compression, bit-perfect, high bitrate
+
+## Dolby Atmos 
+
+* Combines Dolby Atmos metada and Dolby TrueHD
+* Required eARC and enough bandwidth
+* Does not pass through optical audio or standar ARC
+
+
+
+
+
+
+
+
+
 
 
 
