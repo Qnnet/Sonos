@@ -255,7 +255,7 @@ It works with all devices except with Playbar and Playbase
 * Button Controls
 * Bluetooth Auto of the Box 
 
-### SONOS ALL-in-One Speakers 
+# SONOS ALL-in-One Speakers 
 
 ## Sones One/ One SL
 
@@ -265,7 +265,7 @@ It works with all devices except with Playbar and Playbase
 * Microphone on/off
 * Trueplay
 
-# Play 1/3
+## Play 1/3
 
 * No voice assistance
 * Connect by WiFi and Ethernet cable
@@ -296,11 +296,11 @@ It works with all devices except with Playbar and Playbase
 
 
 
-### SUPPORTED AUDIO FORMATS 
+## SUPPORTED AUDIO FORMATS 
 
 https://support.sonos.com/en/article/supported-home-theater-audio-formats
 
-## Audio technology
+# AUDIO TECHNOLOGY
 
 1. Codec/compression format : How audio is encoded
 2. Channel format: How many channels or speakers
@@ -322,7 +322,7 @@ Pulse Code Modulation analog sounds waves and coverting them into binary
 * Lossy compression 
 * Lower bandwidth requirements, reliable over ARC
 
-# DTS 
+## DTS 
 
 * Surround codec from DTS
 * 5.1 Channels 
@@ -369,10 +369,97 @@ Atmos is not a codec
 
 Es PCM and Atmos uncompressed 
 
-### HOME THEATER 
+# HOME THEATER 
 
 * All-in-one speakers
 * Able to play TV audio directly from TV via digital cable or HDMI
+
+## ARC Ultra
+
+* Sound Motion (enable subwoofer) 
+* Bluetooth 
+* Wi-fi
+* HDMI e ARC
+* Voice enabled
+* Trueplay 
+* Night Sound 
+* Dolby Atmos
+* Woks with TV remote
+* Speech Ehancement 
+* Touch controls 
+
+## Beam Gen 2
+
+* Dolby Atmos
+* WiFi 
+* TV remote sync 
+* Voice Enabled
+* Trueplay  
+* HDMI e ARC
+* Touch controls
+
+## Ray 
+
+* Optical
+* Wifi 
+* TV remote sync
+* Touch controls
+
+## Amp
+
+* 125 watts per channel
+* HDMI ARC
+* Touch controls 
+* Line in
+* Apple AirPlay 2
+* WiFi
+
+## Subs 
+
+# Sonos Applications
+
+https://support.sonos.com/en/article/sonos-app-version-compatibility
+
+## HOME THEATER SETUPS
+
+# PAIRING  
+
+* Two speakers of the same module
+* Stereo
+* Exception Roam/ Roam2 
+
+https://support.sonos.com/en/article/create-a-stereo-pair
+
+ # BONDING 
+
+* Surrounds
+* Anything more than a stereo pair 
+* Exception port/play5/GEN 1
+
+https://support.sonos.com/en/article/surround-sound-guidelines-and-limitations
+
+# GROUPING 
+
+* Streaming the same audio 
+* Bonded together
+* Up to 32 
+
+# GROUPING IN BLUETOOTH 
+
+* Move2 and Play
+* Up to 4 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
