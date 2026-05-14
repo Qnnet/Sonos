@@ -1,55 +1,3 @@
-SONOS
-
- * Sonos devices do not support Double NAT. To avoid issues, use only one NAT device or set the second router to bridge mode.
- * The DHCP reservation feature must be disabled for Sonos to work properly.
-* Sonos se conecta a red local no se puede conectar red celular
-* Los speakers funcinan con Multicast
- * The Wi‑Fi WPA security setting must be WPA2 for Sonos to work properly.
-* Sonos devices do not support WPA Enterprise authentication 
-* SONOS devices require SSID Broadcast to be enabled and do not support hidden (non‑broadcast) Wi‑Fi networks.
-* SONOS do not support Guest Network
-* Multiple Wi‑Fi networks can share the same name (SSID) but use different IP addresses. If your Sonos devices aren’t on the same network, expect connectivity problems.
-* Do not support public IP address
-* Sonos devices cannot be set up for the first time using tethering or mobile hotspots as the internet connection.
-* Use a regular home Wi‑Fi network for the initial setup.
-* For most Sonos devices to work, the router must support both 2.4 GHz and 5 GHz.  Routers with only 5 GHz are not supported.
-* 2.4GHz non overlapping 
-* There is a Wi‑Fi feature that makes a router act like a directional antenna.  
-* It’s called Beamforming, and it should be turned off when using Sonos devices.
-* Sonos devices do not support connections through wireless extenders.
-
-### ON/OFF
-
-Smart connect - OFF
-* Public IP's - NOT SUPPORTED
-10.0.0.0
-172.16.0.0
-192.168.0.0
-* Enterprise - OFF 
-* Hidden SSID - OFF
-* UPnP - ON
-* Airtime frames
-* Guest Net- OFF
-* IGMP Proxy - OFF
-* VPN - OFF
-* IGMP Snooping - ON
-* Beanforming - OFF
-* QoS - OFF
-* Bridge Mode - ON
-
-Network Hardware not supported
-https://support.sonos.com/en-us/article/incompatible-network-hardware
-
-Important settings to check for 2.4 GHz and 5 GHz
-
-If both bands (5GHz and 2.4GHz) share the same Wi‑Fi name (SSID), rename them and separate the bands. Disable Band Steering and Smart Steering if available.
-
-Make sure the wireless mode is set to b/g/n (supports multiple Wi‑Fi standards).
-
-Set the channel width to 20 MHz.
-
-Not all Sonos devices support Wi‑Fi 5 (802.11ac).
-
 # DAY 1/1
 
 Local Area Network (LAN)
@@ -121,3 +69,251 @@ Enterprise Authentication un server revisa en la lista usuario y password para d
 MAN-IN THE-MIDDLE MITM
 
  An attacker intercepts communication between a user and the network, allowing data to be monitored or altered without detection.
+
+# SONOS
+
+ * Sonos devices do not support Double NAT. To avoid issues, use only one NAT device or set the second router to bridge mode.
+ * The DHCP reservation feature must be disabled for Sonos to work properly.
+* Sonos se conecta a red local no se puede conectar red celular
+* Los speakers funcinan con Multicast
+ * The Wi‑Fi WPA security setting must be WPA2 for Sonos to work properly.
+* Sonos devices do not support WPA Enterprise authentication 
+* SONOS devices require SSID Broadcast to be enabled and do not support hidden (non‑broadcast) Wi‑Fi networks.
+* SONOS do not support Guest Network
+* Multiple Wi‑Fi networks can share the same name (SSID) but use different IP addresses. If your Sonos devices aren’t on the same network, expect connectivity problems.
+* Do not support public IP address
+* Sonos devices cannot be set up for the first time using tethering or mobile hotspots as the internet connection.
+* Use a regular home Wi‑Fi network for the initial setup.
+* For most Sonos devices to work, the router must support both 2.4 GHz and 5 GHz.  Routers with only 5 GHz are not supported.
+* 2.4GHz non overlapping 
+* There is a Wi‑Fi feature that makes a router act like a directional antenna.  
+* It’s called Beamforming, and it should be turned off when using Sonos devices.
+* Sonos devices do not support connections through wireless extenders.
+
+### ON/OFF
+
+Smart connect - OFF
+* Public IP's - NOT SUPPORTED
+10.0.0.0
+172.16.0.0
+192.168.0.0
+* Enterprise - OFF 
+* Hidden SSID - OFF
+* UPnP - ON
+* Airtime frames
+* Guest Net- OFF
+* IGMP Proxy - OFF
+* VPN - OFF
+* IGMP Snooping - ON
+* Beanforming - OFF
+* QoS - OFF
+* Bridge Mode - ON
+
+Network Hardware not supported
+https://support.sonos.com/en-us/article/incompatible-network-hardware
+Sonos app version 
+https://support.sonos.com/en-us/article/sonos-app-version-compatibility
+
+Sonos Product Guide
+https://www.sonos.com/en/support/by-product?srsltid=AfmBOopYA622C6IdspDWVpA-djzMGSvfcJ-zqbO2TFs3IG_s8gchxh0J
+
+
+Important settings to check for 2.4 GHz and 5 GHz
+
+If both bands (5GHz and 2.4GHz) share the same Wi‑Fi name (SSID), rename them and separate the bands. Disable Band Steering and Smart Steering if available.
+
+Make sure the wireless mode is set to b/g/n (supports multiple Wi‑Fi standards).
+
+Set the channel width to 20 MHz.
+
+Not all Sonos devices support Wi‑Fi 5 (802.11ac).
+
+# SONOS DEVICES
+
+### ALL-IN-ONE
+
+## Headphones 
+
+* Lossless audio
+* Dolby Atmos
+* Dynamic head tracking
+* USB-C and 3.5 mm    
+* Wear detection it pause automatically
+* Active Noise Cancellation
+* Aware mode it allows to hear eviroment 
+* 30 Hour Battery life                        
+* Rapid Charging
+* Bluetooth  
+
+It works with all devices except with Playbar and Playbase 
+
+## ERA 100
+
+* Voice enabled             
+* Bluetooth
+* Trueplay  
+* Touch Controls
+* Wifi 
+* Line In 
+* Apple AirPlay2
+* Humidity
+* Mono Sound 
+* It has version SL (Speechless)
+* Version PRO it has PoE
+
+## ERA 3000
+
+* Dolby Atmos
+* Wifi  
+* Line in
+* Apple Air-Play2
+* Humidity resistant
+* Voice enabled
+* Bluetooth 
+* Trueplay  
+* Touch controls 
+* Can be convert from Type-C true adapter 3.5mm 
+
+## SONOS PLAY
+
+* 24 hour battery life
+* Drop resistant   
+* Bluetooth
+* Automatic Trueplay    
+* Button Controls 
+* Line in ready
+* Waterproof IP67   
+* WiFi
+* Charging Base 
+* Apple Air-Play 2
+* Voice Enabled
+* Stereo 
+* Group up to 4 speakers with Move 2 by Bluetooth 
+
+## SONOS FIVE
+
+* Line in       
+* Apple AirPlay 2
+* Humidity resistant 
+* Wifi  
+* Touch Control 
+* Adapter RCA to 3.5mm 
+* Horizontal Stereo / Vertically Mono  
+
+### ALL-in-One Portables
+
+# Move 
+
+* Firts Portable
+* 11 Hour Battery
+* Wifi
+* Join Botton 
+* Does not have line in.
+* Voice assistance 
+* Both do not connect to Ethernet cable 
+* Both Voice Assitance (Move2 has switch)
+* Automatic Trueplay 
+* IP56
+
+# Move 2
+
+* Firts Portable
+* 24 Hour Battery
+* Wifi
+* Bluetooth
+* Join Botton 
+* Move 2 have Line in button
+* Voice assistance (does not support Google)
+* Move 2 waterproof IP56
+* Do not connect to Ethernet cable 
+* Do Voice Assitance (Move2 has switch)
+* Apple AirPlay 2
+* Automatic Trueplay 
+* Touch Controls 
+
+# Roam 
+
+* Waterproof(IP67)
+* 10 battery 
+* Bluetooth
+* Apple AirPlay 2
+* Voice enabled 
+* WiFi
+* Automatic Trueplay    
+* Button Controls
+* Firts with auto swap
+
+# Roam 2
+
+* Waterproof(IP67)
+* 10 battery 
+* Bluetooth
+* Apple AirPlay 2
+* Voice enabled 
+* WiFi
+* Automatic Trueplay    
+* Button Controls
+* Bluetooth Auto of the Box 
+
+### SONOS ALL-in-One Speakers 
+
+## Sones One/ One SL
+
+* Join button 
+* Ethernet port
+* Voice services
+* Microphone on/off
+* Trueplay
+
+# Play 1/3
+
+* No voice assistance
+* Connect by WiFi and Ethernet cable
+* Phiscal bottoms.
+* 
+
+
+
+## IKEA 
+
+* Transfer call 
+
+### Audio Components 
+
+* Do not have built-in-speakers 
+* Need a receiver to output audio
+
+## Amp
+
+* 125 watts per channel 
+* HDMI ARC
+* Touch controls 
+* Line In 
+* WiFi/Ethernet ports 
+
+## PORT 
+
+* Convert signal analog/digital or viceversa
+* To use third party speakers or devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
