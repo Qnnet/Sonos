@@ -356,6 +356,20 @@ Atmos is not a codec
 * Required eARC and enough bandwidth
 * Does not pass through optical audio or standar ARC
 
+## Multichannel PCM 
+
+* Uncompressed surround audio 
+* Losslees 
+
+## Dolby Multichannel PCM 
+
+* PCM audio 
+* Dolby spatial metadata involved 
+* Dolby MAT
+
+Es PCM and Atmos uncompressed 
+
+
 
 
 
