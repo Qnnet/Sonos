@@ -89,6 +89,8 @@ MAN-IN THE-MIDDLE MITM
 * There is a Wi‑Fi feature that makes a router act like a directional antenna.  
 * It’s called Beamforming, and it should be turned off when using Sonos devices.
 * Sonos devices do not support connections through wireless extenders.
+* Wifi channels from 1-14 2.4 and from 14 to up 5 
+
 
 ### ON/OFF
 
@@ -469,6 +471,7 @@ Bluetooth energy it allows celular to connect with the speaker until itget confi
 * Chirp Passcode (audio)
 * Pin
 * Button 
+
 
 
 
